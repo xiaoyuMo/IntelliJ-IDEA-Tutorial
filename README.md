@@ -1,27 +1,39 @@
-# 重要说明，看三遍
+## 团队 DevOps 方案参考
+
+<a target="_blank" href="https://coding.net/?utm_source=judasn">
+<img id="judasn" src="https://upload-images.jianshu.io/upload_images/12159-e3279861ff8655c9.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240">
+</a>
+
+## 新的起点
+
+- [Sculptor Boot：项目思维化的《代码生成器》体系（未来可期，做个朋友吧）](https://github.com/cdk8s/sculptor-boot-generator)
+- CDK8S：<https://mp.weixin.qq.com/s/fITEVy3IEhI4HOyTXRp9ig>
+- TKey：<https://www.oschina.net/p/tkey>
 
 ## 特别事件
 
+- IntelliJ IDEA 2019.2 发布（2019-07-25 性能提升明显）
+- IntelliJ IDEA 2019.1 发布（2019-03-28）
+- IntelliJ IDEA 2018.3 发布（2018-11-21）
 - IntelliJ IDEA 2018.2 发布（2018-07-25）
 	- 新特性列表：<http://www.jetbrains.com/idea/whatsnew>
 	- 下载：<http://www.jetbrains.com/idea/download/>
 - 实体书
-	- 有在计划出实体书，并且空闲时已经在潦草写点，计划 2019-02 春节前结束。（不排除工作上有事情）
+	- 有在计划出实体书，并且空闲时已经在潦草写点，目前已经写了 25%，争取 2019 年秋季官网出大版本前完成第一版本。（不排除工作上有事情）
 	- 计算机类书籍销量都很小（总销量能 1W 册算是牛逼了），赚不了什么钱，而且容易 PDF，这是无法阻拦的。写实体书只是因为想白纸黑字证明自己存在过，即使哪天突然消失了也能有人会记得我。
-
 
 
 ## 介绍(Introduce)
 
 - 本套教程适用于：
-	- [IntelliJ IDEA 14、15、2016、2017、2018 版本](https://www.jetbrains.com/idea/)
-	- [WebStorm 2016、2017、2018 版本](https://www.jetbrains.com/webstorm)
-	- [PhpStorm 2016、2017、2018 版本](https://www.jetbrains.com/phpstorm)
-	- [PyCharm 2016、2017、2018 版本](https://www.jetbrains.com/pycharm)
-	- [RubyMine 2016、2017、2018 版本](https://www.jetbrains.com/ruby)
-	- [Goland 2017、2018 版本](https://www.jetbrains.com/go)
-	- [CLion 2017、2018 版本](https://www.jetbrains.com/clion)
-	- [DataGrip 2016、2017、2018 版本](https://www.jetbrains.com/datagrip)
+	- [IntelliJ IDEA 14、15、2016、2017、2018、2019 版本](https://www.jetbrains.com/idea/)
+	- [WebStorm 2016、2017、2018、2019 版本](https://www.jetbrains.com/webstorm)
+	- [PhpStorm 2016、2017、2018、2019 版本](https://www.jetbrains.com/phpstorm)
+	- [PyCharm 2016、2017、2018、2019 版本](https://www.jetbrains.com/pycharm)
+	- [RubyMine 2016、2017、2018、2019 版本](https://www.jetbrains.com/ruby)
+	- [Goland 2017、2018、2019 版本](https://www.jetbrains.com/go)
+	- [CLion 2017、2018、2019 版本](https://www.jetbrains.com/clion)
+	- [DataGrip 2016、2017、2018、2019 版本](https://www.jetbrains.com/datagrip)
 	- [Android Studio 任何版本](https://developer.android.com/studio/index.html?hl=zh-cn)
 - 教程主要面向中文用户，如果你英文良好，建议直接阅读官网帮助文档
 	- 官网帮助中心：<http://www.jetbrains.com/idea/webhelp/getting-help.html>
@@ -159,3 +171,4 @@
 ## AD
 
 - [推荐：程序员的个性化网址导航：GitNavi.com](http://www.gitnavi.com/u/judasn/)
+- [适合后端开发者的前端 React-Admin](https://github.com/satan31415/umi-admin)
